@@ -1,4 +1,4 @@
-# Ex 1b:Program to read a tuple and convert it into a list.
+# Ex 1b:Datatypes-Program to read a tuple and convert it into a list.
 ## Aim
 To write a Python program that reads a tuple from the user and converts it into a list using the eval() function.
 
